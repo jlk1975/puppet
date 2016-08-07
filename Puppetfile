@@ -1,1 +1,1 @@
-mod 'puppetlabs-apache'
+mod 'rtyler-jenkins'
