@@ -1,2 +1,2 @@
 # puppet
-puppet play repository
+this is a puppet play repository
